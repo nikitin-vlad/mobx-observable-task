@@ -1,0 +1,17 @@
+# http://editorconfig.org
+root = true
+
+[*.ts]
+charset = utf-8
+end_of_line = lf
+indent_style = tab
+trim_trailing_whitespace = true
+max_line_length = 120
+
+[*.json]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+max_line_length = 120

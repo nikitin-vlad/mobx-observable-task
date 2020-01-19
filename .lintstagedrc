@@ -1,0 +1,3 @@
+{
+  "*.ts": ["tslint", "prettier --ignore-path .prettierignore --write", "git add"]
+}

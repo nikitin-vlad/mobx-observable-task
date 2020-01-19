@@ -1,0 +1,12 @@
+node_modules
+.cache
+.yarn-cache
+npm-debug.log
+.idea
+lib
+dist
+build
+yarn-error.log
+.vscode
+.DS_Store
+.npmrc
